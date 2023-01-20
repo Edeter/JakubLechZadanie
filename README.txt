@@ -1,6 +1,6 @@
 Zewnętrzne Assety: TextMeshPro
 
-Czas realizacji: 6,3 h
+Czas realizacji: 7 h
 
 Opis:
 
